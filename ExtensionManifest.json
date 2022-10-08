@@ -1,0 +1,9 @@
+{
+    "type" : "IconPack",
+    "name" : "Powered Steel (Toggle)",
+    "author" : "RecklessBoon",
+    "repository" : "https://github.com/RecklessBoon/Macro-Deck-Icon-Powered-Steel-Toggle",
+    "packageId" : "RecklessBoon.PoweredSteel.Toggle",
+    "version" : "1.0.0",
+    "target-plugin-api-version" : 36
+  }
